@@ -7,7 +7,7 @@
 
 My ready projects:
 
-    1. https://www.yourtarget.com.ua/
+    https://www.yourtarget.com.ua/
 
 
 <!---
