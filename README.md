@@ -5,9 +5,7 @@
 
 
 
-My ready projects:
-
-    https://www.yourtarget.com.ua/
+My ready projects in my repos.
 
 
 <!---
